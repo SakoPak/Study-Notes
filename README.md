@@ -8,6 +8,7 @@ Study Notes is an app that let's you quiz yourself on different computer languag
 
 
 
+
 ## Logging in Online
  To log in and get started, click <a href="" target="_blank">here!</a>
 
@@ -32,6 +33,11 @@ Study Notes is an app that let's you quiz yourself on different computer languag
 |   [Mongoose](https://mongoosejs.com/)         | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)          |        |          |
 |         |           |        |         |
 |          |          |       |         |
+
+## About OpenAI API
+OpenAI provides access to GPT-3 and Codex.
+GPT-3 performs a wide variety of natural language tasks and Codex translates natural languages to code.
+It can be applied to any task that involves understanding or generating natural language.
 
 
 ## About Me
